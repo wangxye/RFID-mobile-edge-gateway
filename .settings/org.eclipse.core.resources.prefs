@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/com/module/interaction/ReaderHelper.java=UTF-8
+encoding//src/com/rfid/RFIDReaderHelper.java=UTF-8
+encoding//src/com/rfid/config/CMD.java=UTF-8
+encoding//src/com/rfid/rxobserver/ReaderSetting.java=UTF-8
+encoding/db.properties=UTF-8
